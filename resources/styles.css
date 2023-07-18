@@ -349,6 +349,31 @@ header a:hover {
     }
 }
 
+/* MEMBER SIGNUP */
+#membership {
+    width: 100%;
+    background-color: #f1f2f3;
+    color: #131336;
+    margin: 25px 0;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 0 2px 2px #8f8f8f;
+}
+#membership form {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#membership h2 {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* FOOTER */
 footer {
     height: 150px;
     width: 100%;
